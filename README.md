@@ -1,8 +1,9 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 22/05/2026
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
+<img width="428" height="454" alt="image" src="https://github.com/user-attachments/assets/411f536a-0f6b-42d7-9d77-02e3cb281eb2" />
 
 ## REQUIREMENTS:
 ### ●	3D Printer machine.
@@ -11,44 +12,53 @@
 ### ●	System - Windows 7 or higher, 1 GB RAM.
 
 ## PROCEDURE:
+For X-Axis Assembly
+1. Select X-Axis Assembly from the visible list.
+2. All the parts related to X-Axis will be shown on the screen.
+3. Select the parts in sequence in which they are shown.
+4. When the first part is selected then it will open in the blank space in the left side of the screen.
+5. Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+6. If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+For Y-Axis Assembly
+1. Select Y-Axis Assembly from the visible list.
+2. All the parts related to Y-Axis will be shown on the screen.
+3. Select the parts in sequence in which they are shown.
+4. When the first part is selected then it will open in the blank space in the left side of the screen.
+5. Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+6. If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+For Z-Axis Assembly
+1. Select Z-Axis Assembly from the visible list.
+2. All the parts related to Z-Axis will be shown on the screen.
+3. Select the parts in sequence in which they are shown.
+4. When the first part is selected then it will open in the blank space in the left side of the screen.
+5. Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+6. If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+For Complete-Axis Assembly
+1. Select Complete-Axis Assembly from the visible list.
+2. All the parts related to Complete-Axis will be shown on the screen.
+3. Select the parts in sequence in which they are shown.
+4. When the first part is selected then it will open in the blank space in the left side of the screen.
+5. Further, when the correct part will be selected then it will get assembled with the previously selected part/parts.
+6. If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the part to be selected.
+Playing with Axes
+1. Move the x-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the x-axis assembly.
+2. Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
+3. Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
-### Step 1:- Check all Electrical connections.
+OUTPUT
+<img width="562" height="383" alt="image" src="https://github.com/user-attachments/assets/f420147e-3b0d-4f5a-9768-5316834b21fe" />
+<img width="560" height="362" alt="image" src="https://github.com/user-attachments/assets/20b90096-7421-4602-a7da-df8a14a2253f" />
+<img width="558" height="367" alt="image" src="https://github.com/user-attachments/assets/963c1845-2bf6-492f-a904-586f84ed6af4" />
+<img width="565" height="384" alt="image" src="https://github.com/user-attachments/assets/836a0e5c-92a3-442f-bfb5-17922d71e195" />
+<img width="519" height="479" alt="image" src="https://github.com/user-attachments/assets/7cc12b8b-eaf5-4036-af33-dba9161ef5de" />
 
-### Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
+Output:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/059ab4e7-f3fb-49a9-ba8e-12bdd082abef)
+<img width="564" height="379" alt="image" src="https://github.com/user-attachments/assets/d040a3d9-67f8-41c5-ac84-c5c70dc5a7cb" />
 
-### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/835c55fd-6195-4d73-9f5c-4af36f5a4cce)
-
-### Step 4.:- select the Move option for design print position in build tack plate and then after select the Rotate option for rotate the design easily printed and used low print material as shown in below figure.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/8736080c-f421-4dd0-bae8-860df6f3583e)
-
-### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/98458892-2f68-4de0-bec7-24959ec598fa)
-
-### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/eafa933a-7e03-4f73-930d-75fb28d48716)
-
-### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
-###   1.	Switch on the 3d printer.
-###   2.	Place your Pen drive in USB.
-###   3.	Clean the surface bed plate.
-###   4.	Load filament into the required extruder as per the requirement.
-###   5.	Wait until the nozzle & bed plate comes into the required temperature.
-###   6.	Close the doors of the 3d printer.
-###   7.	Open the file from the USB storage and select the Print option.
-
-## Output:
-
-### Name:
-### Register Number:
+### Name: Sunil Kumar R
+### Register Number: 212225040440
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
